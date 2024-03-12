@@ -1,6 +1,6 @@
 # Name of Streamlit App
 
-Description of the app ...
+My first  Python App deploy to Streamlit platform...
 
 ## Demo App
 
